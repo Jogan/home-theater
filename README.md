@@ -3,7 +3,7 @@ Current - 5.1.2 Atmos Setup
 
 part|item|
 :----|:----|
-**TV** | [Hisense U8K](https://www.rtings.com/tv/reviews/hisense/u8-u8k) | 
+**TV** | [Hisense U8K 65"](https://www.rtings.com/tv/reviews/hisense/u8-u8k) | 
 **AVR** | [DENON AVR-S750H](https://www.amazon.com/Denon-AVR-S750H-Receiver-Channel-165W/dp/B07QQ87Y6M) | 
 **4K Player** | [Panasonic DP-UB820-K](https://www.amazon.com/Panasonic-Ultra-Assist-Blu-ray-Player/dp/B07N3PQM5N) | 
 **L/R** | [Sony - Core Series 5" SS-CS5](https://electronics.sony.com/audio/speakers/home-theater-speakers/p/sscs5) | 
